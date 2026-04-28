@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DecodePlayControl 功能模块代码解析
 
 ## 目录
